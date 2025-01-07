@@ -1,2 +1,3 @@
 # 025_Stanford_CS229
-这个栏目用来存放CS229的资料
+
+### [视频资料](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
